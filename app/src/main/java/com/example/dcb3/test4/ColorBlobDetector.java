@@ -125,7 +125,7 @@ public class ColorBlobDetector {
         double[] pixel = mHueMat.get(tY, tX);
 
         List<Double> xList = new ArrayList<Double>();
-        
+
 
 
         Log.i(TAG, ""+pixel[0]);//+","+pixel[1]+","+pixel[2]);
